@@ -22,5 +22,6 @@ sql dump file:
 - db_backup.sql file is a mysql dump file.we have to import this dump to mysql db server
 - > mysql -u <user_name> -p accounts < db_backup.sql
 
+# Architecture
 
 ![Architecture](https://github.com/user-attachments/assets/3172e7f5-4c44-4856-9a2f-58d4328432be)
