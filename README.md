@@ -23,3 +23,4 @@ sql dump file:
 - > mysql -u <user_name> -p accounts < db_backup.sql
 
 
+![Architecture](https://github.com/user-attachments/assets/3172e7f5-4c44-4856-9a2f-58d4328432be)
